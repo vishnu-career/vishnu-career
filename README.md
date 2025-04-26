@@ -1,4 +1,4 @@
-Hi 👋! My name is **Srivishnu I**  
+Hi 👋! I'm **Srivishnu I**  
 🌐 I'm a **JAVA Full Stack Developer**.
 
 ### 🚀 About Me
