@@ -3,7 +3,7 @@ Hi 👋! I'm **Srivishnu I**
 
 ### 🚀 About Me
 
-- 💻 Skilled in designing, developing, and deploying full-stack web applications, leveraging technologies such as **JavaScript**, **React**, **Java**, **Chakra UI**, and **MySQL**.
+- 💻 Skilled in designing, developing, and deploying full-stack web applications, leveraging technologies such as **JavaScript**, **React**, **Java**, **Chakra UI**,**PHP** and **MySQL**.
 - 🔧 Experienced with libraries like **React** and **Chakra UI** for building dynamic, real-time web applications and modern user interfaces.
 - 🔨 Passionate about creating efficient, scalable, and secure systems while constantly learning and adapting to new technologies.
 - 🌱 Currently focused on expanding my expertise in JavaScript, React, Node.js, and Databases while contributing to open-source projects.
@@ -11,8 +11,8 @@ Hi 👋! I'm **Srivishnu I**
 ### 🛠️ Tools & Technologies
 
 - 🌟 Frontend: **React**, **Redux**, **Chakra UI**, **Tailwind CSS** , **Typescript**
-- 🔧 Backend: **Java**, **Springboot**, **Socket.io**
-- 💾 Database: **MySQL**
+- 🔧 Backend: **Java**, **Springboot**, **Socket.io**,**PHP**, **Codeigniter4**
+- 💾 Database: **MySQL**, **XAMPP**
   🌐 Version Control: **Git**, **GitHub**, **GitLab**
 
 ###
