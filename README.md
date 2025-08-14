@@ -13,7 +13,7 @@ Hi 👋! I'm **Srivishnu I**
 - 🌟 Frontend: **React**, **Redux**, **Chakra UI**, **Tailwind CSS** , **Typescript**
 - 🔧 Backend: **Java**, **Springboot**, **Socket.io**, **PHP**, **Codeigniter4**
 - 💾 Database: **MySQL**, **XAMPP**
-  🌐 Version Control: **Git**, **GitHub**, **GitLab**
+- 🌐 Version Control: **Git**, **GitHub**, **GitLab**
 
 ###
 
